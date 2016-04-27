@@ -17,7 +17,7 @@ public class GoogleMailTest {
         Cred[0][0] = "UserId1"; Cred[0][1] = "Pass1"; Cred[0][2] = false;
         Cred[1][0] = "UserId2"; Cred[1][1] = "Pass2"; Cred[1][2] = false;
         //use your or other correct credentials for the third iteration
-        Cred[2][0] = "kdbrener "; Cred[2][1] = "nsytnfjycvju2002"; Cred[2][2] = true;
+        Cred[2][0] = "enterCorrectLogin "; Cred[2][1] = "enterCorrectPassword"; Cred[2][2] = true;
         return Cred;
     }
 
