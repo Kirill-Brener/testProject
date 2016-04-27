@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.selenide.examples.GoogleMailTest" time="29.15" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="org.selenide.examples.GoogleMailTest" time="30.294" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_45\jre\bin"/>
     <property name="java.vm.version" value="25.45-b02"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Kirill.Brener\testProject"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\testProject"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Kirill.Brener\testProject"/>
+    <property name="user.dir" value="D:\testProject"/>
     <property name="java.runtime.version" value="1.8.0_45-b15"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_45\jre\lib\endorsed"/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_45\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test site"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test site"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,7 +62,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="verifyIncorrectGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="15.281"/>
-  <testcase name="verifyIncorrectGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="2.606"/>
-  <testcase name="verifyIncorrectGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="10.046"/>
+  <testcase name="verifyGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="16.314"/>
+  <testcase name="verifyGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="3.076"/>
+  <testcase name="verifyGmailAuthorization" classname="org.selenide.examples.GoogleMailTest" time="10.904"/>
 </testsuite>

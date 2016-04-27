@@ -1,0 +1,28 @@
+{
+  "uid" : "cdfa360f-d971-4132-9d4f-3bc3accd8096",
+  "name" : "verifyGmailAuthorization[kdbrener ,nsytnfjycvju2002,true]",
+  "title" : "Verify gmail authorization [kdbrener ,nsytnfjycvju2002,true]",
+  "time" : {
+    "start" : 1461771033139,
+    "stop" : 1461771044043,
+    "duration" : 10904
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

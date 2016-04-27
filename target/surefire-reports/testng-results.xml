@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="27947" started-at="2016-04-27T11:02:05Z" finished-at="2016-04-27T11:02:33Z">
+  <suite name="org.selenide.examples.GoogleMailTest" duration-ms="30398" started-at="2016-04-27T15:30:13Z" finished-at="2016-04-27T15:30:44Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="27947" started-at="2016-04-27T11:02:05Z" finished-at="2016-04-27T11:02:33Z">
+    <test name="Command line test" duration-ms="30398" started-at="2016-04-27T15:30:13Z" finished-at="2016-04-27T15:30:44Z">
       <class name="org.selenide.examples.GoogleMailTest">
-        <test-method status="PASS" signature="verifyIncorrectGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@6d00a15d]" name="verifyIncorrectGmailAuthorization" duration-ms="15276" started-at="2016-04-27T14:02:05Z" data-provider="LoginCredentials" finished-at="2016-04-27T14:02:20Z">
+        <test-method status="PASS" signature="verifyGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@7db12bb6]" name="verifyGmailAuthorization" duration-ms="16341" started-at="2016-04-27T18:30:13Z" data-provider="LoginCredentials" finished-at="2016-04-27T18:30:30Z">
           <params>
             <param index="0">
               <value>
@@ -27,8 +27,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyIncorrectGmailAuthorization -->
-        <test-method status="PASS" signature="verifyIncorrectGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@6d00a15d]" name="verifyIncorrectGmailAuthorization" duration-ms="2614" started-at="2016-04-27T14:02:20Z" data-provider="LoginCredentials" finished-at="2016-04-27T14:02:23Z">
+        </test-method> <!-- verifyGmailAuthorization -->
+        <test-method status="PASS" signature="verifyGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@7db12bb6]" name="verifyGmailAuthorization" duration-ms="3082" started-at="2016-04-27T18:30:30Z" data-provider="LoginCredentials" finished-at="2016-04-27T18:30:33Z">
           <params>
             <param index="0">
               <value>
@@ -48,12 +48,12 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyIncorrectGmailAuthorization -->
-        <test-method status="PASS" signature="verifyIncorrectGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@6d00a15d]" name="verifyIncorrectGmailAuthorization" duration-ms="10034" started-at="2016-04-27T14:02:23Z" data-provider="LoginCredentials" finished-at="2016-04-27T14:02:33Z">
+        </test-method> <!-- verifyGmailAuthorization -->
+        <test-method status="PASS" signature="verifyGmailAuthorization(java.lang.String, java.lang.String, java.lang.Boolean)[pri:0, instance:org.selenide.examples.GoogleMailTest@7db12bb6]" name="verifyGmailAuthorization" duration-ms="10903" started-at="2016-04-27T18:30:33Z" data-provider="LoginCredentials" finished-at="2016-04-27T18:30:44Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[kdbrener]]>
+                <![CDATA[kdbrener ]]>
               </value>
             </param>
             <param index="1">
@@ -69,8 +69,8 @@
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyIncorrectGmailAuthorization -->
+        </test-method> <!-- verifyGmailAuthorization -->
       </class> <!-- org.selenide.examples.GoogleMailTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.selenide.examples.GoogleMailTest -->
 </testng-results>

@@ -1,0 +1,28 @@
+{
+  "uid" : "fcaf37f2-b28f-40d1-9e30-3cd9ad86f0e6",
+  "name" : "verifyGmailAuthorization[UserId2,Pass2,false]",
+  "title" : "Verify gmail authorization [UserId2,Pass2,false]",
+  "time" : {
+    "start" : 1461771030057,
+    "stop" : 1461771033139,
+    "duration" : 3082
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,3 +1,36 @@
 {
-  "testCases" : [ ]
+  "testCases" : [ {
+    "uid" : "bac0f470-186e-49fa-b273-b0b9441b57e1",
+    "name" : "verifyGmailAuthorization[UserId1,Pass1,false]",
+    "title" : "Verify gmail authorization [UserId1,Pass1,false]",
+    "time" : {
+      "start" : 1461771013731,
+      "stop" : 1461771030055,
+      "duration" : 16324
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fcaf37f2-b28f-40d1-9e30-3cd9ad86f0e6",
+    "name" : "verifyGmailAuthorization[UserId2,Pass2,false]",
+    "title" : "Verify gmail authorization [UserId2,Pass2,false]",
+    "time" : {
+      "start" : 1461771030057,
+      "stop" : 1461771033139,
+      "duration" : 3082
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cdfa360f-d971-4132-9d4f-3bc3accd8096",
+    "name" : "verifyGmailAuthorization[kdbrener ,nsytnfjycvju2002,true]",
+    "title" : "Verify gmail authorization [kdbrener ,nsytnfjycvju2002,true]",
+    "time" : {
+      "start" : 1461771033139,
+      "stop" : 1461771044043,
+      "duration" : 10904
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
 }
