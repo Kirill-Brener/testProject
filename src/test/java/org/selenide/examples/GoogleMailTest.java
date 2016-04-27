@@ -38,7 +38,7 @@ public class GoogleMailTest {
         if(isCorrect){
             //wait 'till page loading
             Thread.sleep(5000);
-            Assert.assertTrue("",
+            Assert.assertTrue("Verify that 'new message' button is displayed indicating that page was correctly loaded",
                     gmail.isNewMessageButtonDisplayed());
         }
         else {
